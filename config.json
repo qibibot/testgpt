@@ -1,0 +1,38 @@
+{
+    "characterFile": "sans.txt",
+    "characterName": "Sans",
+    "specialChannelId": "1159424388337254471",
+    "characterAI": [
+    {
+        "chatid": "f80d36cf-71e6-4139-9ae7-677eaf77d94a",
+        "characterid": "9TN7Od2_yBtfL65CLibIi6th1h5GfcgnbYFJKs8jXXE",
+        "name": "Санс"
+    },
+    {
+        "chatid": "a53b4ebe-bc22-490c-a24b-bf2219cbf627",
+        "characterid": "kP-kNGIi7VswePS8cw-q1Wd_6NcJMeAJkqkJqWjM9Cc",
+        "name": "Гитлер"
+    }],
+    "skipResponse": [
+        "у тебя возникнут вопросы",
+        "что случилось",
+        "что за",
+        "что тут",
+        "что это"
+    ],
+    "blockNewlineNumber": 10,
+    "blockResponse": [
+        "to assist you",
+        "Hello",
+        "cannot",
+        "sorry",
+        "Heh",
+        "can't",
+        "提",
+        "Please refresh current page or click",
+        "Hey",
+        "https://chatforai.store",
+        "Lucida Sans Unicode"
+    ],
+    "thinkMessage": "💬... https://tenor.com/view/typing-keyboard-computer-library-bookshelves-bookshelf-gif-26222640"
+}
